@@ -1,0 +1,35 @@
+C:\Casper\Creations\.NET Creations\MMSpeedrunTool\bin\Debug\net7.0-windows\MMSpeedrunTool.exe
+C:\Casper\Creations\.NET Creations\MMSpeedrunTool\bin\Debug\net7.0-windows\MMSpeedrunTool.deps.json
+C:\Casper\Creations\.NET Creations\MMSpeedrunTool\bin\Debug\net7.0-windows\MMSpeedrunTool.runtimeconfig.json
+C:\Casper\Creations\.NET Creations\MMSpeedrunTool\bin\Debug\net7.0-windows\MMSpeedrunTool.dll
+C:\Casper\Creations\.NET Creations\MMSpeedrunTool\bin\Debug\net7.0-windows\MMSpeedrunTool.pdb
+C:\Casper\Creations\.NET Creations\MMSpeedrunTool\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Casper\Creations\.NET Creations\MMSpeedrunTool\obj\Debug\net7.0-windows\App.g.cs
+C:\Casper\Creations\.NET Creations\MMSpeedrunTool\obj\Debug\net7.0-windows\MMSpeedrunTool_MarkupCompile.cache
+C:\Casper\Creations\.NET Creations\MMSpeedrunTool\obj\Debug\net7.0-windows\MMSpeedrunTool_MarkupCompile.lref
+C:\Casper\Creations\.NET Creations\MMSpeedrunTool\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Casper\Creations\.NET Creations\MMSpeedrunTool\obj\Debug\net7.0-windows\MMSpeedrunTool.g.resources
+C:\Casper\Creations\.NET Creations\MMSpeedrunTool\obj\Debug\net7.0-windows\MMSpeedrunTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Casper\Creations\.NET Creations\MMSpeedrunTool\obj\Debug\net7.0-windows\MMSpeedrunTool.AssemblyInfoInputs.cache
+C:\Casper\Creations\.NET Creations\MMSpeedrunTool\obj\Debug\net7.0-windows\MMSpeedrunTool.AssemblyInfo.cs
+C:\Casper\Creations\.NET Creations\MMSpeedrunTool\obj\Debug\net7.0-windows\MMSpeedrunTool.csproj.CoreCompileInputs.cache
+C:\Casper\Creations\.NET Creations\MMSpeedrunTool\obj\Debug\net7.0-windows\MMSpeedrunTool.dll
+C:\Casper\Creations\.NET Creations\MMSpeedrunTool\obj\Debug\net7.0-windows\refint\MMSpeedrunTool.dll
+C:\Casper\Creations\.NET Creations\MMSpeedrunTool\obj\Debug\net7.0-windows\MMSpeedrunTool.pdb
+C:\Casper\Creations\.NET Creations\MMSpeedrunTool\obj\Debug\net7.0-windows\MMSpeedrunTool.genruntimeconfig.cache
+C:\Casper\Creations\.NET Creations\MMSpeedrunTool\obj\Debug\net7.0-windows\ref\MMSpeedrunTool.dll
+C:\Casper\Creations\.NET Creations\MMSpeedrunTool\bin\Debug\net7.0-windows\SaveGames\ManicMinersSettings.sav
+C:\Casper\Creations\.NET Creations\MMSpeedrunTool\bin\Debug\net7.0-windows\SaveGames\Miners\Boulder Bolt.sav
+C:\Casper\Creations\.NET Creations\MMSpeedrunTool\bin\Debug\net7.0-windows\SaveGames\Miners\Dash Dynamo.sav
+C:\Casper\Creations\.NET Creations\MMSpeedrunTool\bin\Debug\net7.0-windows\SaveGames\Miners\Flint Flash.sav
+C:\Casper\Creations\.NET Creations\MMSpeedrunTool\bin\Debug\net7.0-windows\SaveGames\Miners\Granite Sprinter.sav
+C:\Casper\Creations\.NET Creations\MMSpeedrunTool\bin\Debug\net7.0-windows\SaveGames\Miners\Rapid Rammer.sav
+C:\Casper\Creations\.NET Creations\MMSpeedrunTool\bin\Debug\net7.0-windows\SaveGames\Miners\Rockjet Racer.sav
+C:\Casper\Creations\.NET Creations\MMSpeedrunTool\bin\Debug\net7.0-windows\SaveGames\Miners\Rocky Rocket.sav
+C:\Casper\Creations\.NET Creations\MMSpeedrunTool\bin\Debug\net7.0-windows\SaveGames\Miners\Speedquake Steve.sav
+C:\Casper\Creations\.NET Creations\MMSpeedrunTool\bin\Debug\net7.0-windows\SaveGames\Miners\Speedrunner.sav
+C:\Casper\Creations\.NET Creations\MMSpeedrunTool\bin\Debug\net7.0-windows\SaveGames\Miners\Swift Shaft.sav
+C:\Casper\Creations\.NET Creations\MMSpeedrunTool\bin\Debug\net7.0-windows\SaveGames\Miners\Turbo Tunnelman.sav
+C:\Casper\Creations\.NET Creations\MMSpeedrunTool\bin\Debug\net7.0-windows\SaveGames\Profiles\Speedrunner.sav
+C:\Casper\Creations\.NET Creations\MMSpeedrunTool\obj\Debug\net7.0-windows\MMSpeedrunTool_Content.g.cs
+C:\Casper\Creations\.NET Creations\MMSpeedrunTool\bin\Debug\net7.0-windows\Images\ManicMinersMenu.png
